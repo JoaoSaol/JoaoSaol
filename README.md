@@ -23,6 +23,11 @@
   <img src="https://api.iconify.design/logos/cordova.svg" height="60px" width="60px" align="center" />
   <a href="https://kooljool.keybase.pub/url/"><img src="https://api.iconify.design/logos/heroku-icon.svg" height="48px" width="48px" align="center" /></a>
   <img src="https://api.iconify.design/logos/javascript.svg" height="48px" width="48px" align="center" />
+  <img src="https://api.iconify.design/logos/react.svg" height="48px" width="48px" align="center" />
+  <img src="https://api.iconify.design/logos/mongodb.svg" height="48px" width="48px" align="center" />
+  <img src="https://api.iconify.design/logos/postgresql.svg" height="48px" width="48px" align="center" />
+  <img src="https://api.iconify.design/logos/mysql.svg" height="48px" width="48px" align="center" />
+  <img src="https://api.iconify.design/logos/java.svg" height="48px" width="48px" align="center" />
  </p>
 
 ![Snake animation](https://github.com/joaoarebalo/joaoarebalo/blob/output/github-contribution-grid-snake.svg)
