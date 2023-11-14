@@ -1,6 +1,6 @@
 <p align="center"><img src="https://raw.githubusercontent.com/freejooo/freejooo/main/Pixel%2Bgifs_b4e2c4_6919592.gif" width="1000" height="300" /></p>
 
-- 👋 Hi, I’m @JoaoSaol, I'm studing Information System at IFG - Institute Federal of Goias
+- 👋 Hi, I’m @JoaoSaol, I'm studing Information System at IFG - Federal Institute of Goiás
 
 - 👀 I’m interested in TypesScript, JavaScript, Angular, Ionic, NodeJs, Express
 
