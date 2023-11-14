@@ -1,10 +1,10 @@
 <p align="center"><img src="https://raw.githubusercontent.com/freejooo/freejooo/main/Pixel%2Bgifs_b4e2c4_6919592.gif" width="1000" height="300" /></p>
 
-- 👋 Hi, I’m @JoaoSaol, I'm studing Computer Science at UNIP - Universidade Paulista
+- 👋 Hi, I’m @JoaoSaol, I'm studing Information System at IFG - Institute Federal of Goias
 
 - 👀 I’m interested in TypesScript, JavaScript, Angular, Ionic, NodeJs, Express
 
-- 🌱 I’m currently learning at University Java, PHP, MySql, Python, C and C++
+- 🌱 I’m currently used at University Java, PHP, MySql, Python, C and C++
 
 - 💞️ I’m looking searching projects to collaborate
 
@@ -29,8 +29,6 @@
   <img src="https://api.iconify.design/logos/mysql.svg" height="48px" width="48px" align="center" />
   <img src="https://api.iconify.design/logos/java.svg" height="48px" width="48px" align="center" />
  </p>
-
-![Snake animation](https://github.com/joaoarebalo/joaoarebalo/blob/output/github-contribution-grid-snake.svg)
 <!---
 JoaoSaol/JoaoSaol is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
